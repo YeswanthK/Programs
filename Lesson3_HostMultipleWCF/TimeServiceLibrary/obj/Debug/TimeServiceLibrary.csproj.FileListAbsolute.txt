@@ -1,0 +1,6 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\TimeServiceLibrary\bin\Debug\TimeServiceLibrary.dll.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\TimeServiceLibrary\bin\Debug\TimeServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\TimeServiceLibrary\bin\Debug\TimeServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\TimeServiceLibrary\obj\Debug\TimeServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\TimeServiceLibrary\obj\Debug\TimeServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\TimeServiceLibrary\obj\Debug\TimeServiceLibrary.pdb

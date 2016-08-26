@@ -1,0 +1,7 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\ConsoleHost\bin\Debug\CustomerServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\ConsoleHost\bin\Debug\CustomerServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\ConsoleHost\obj\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\ConsoleHost\obj\Debug\ConsoleHost.pdb

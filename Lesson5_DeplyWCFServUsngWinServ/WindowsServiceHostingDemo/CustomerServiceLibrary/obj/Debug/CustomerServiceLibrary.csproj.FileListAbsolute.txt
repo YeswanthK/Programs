@@ -1,0 +1,6 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Forecast>
+  <city>Eden Prairie</city>
+  <Day1>
+    <Low>18.86</Low>
+    <High>39</High>
+    <Details>cold, windy, snowy</Details>
+  </Day1>
+  <Day2>
+    <Low>14</Low>
+    <High>23</High>
+    <Details>Colder, windier, snowier</Details>
+  </Day2>
+</Forecast>

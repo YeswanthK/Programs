@@ -1,0 +1,5 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\TemperatureServiceLibrary\bin\Debug\TemperatureServiceLibrary.dll.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\TemperatureServiceLibrary\bin\Debug\TemperatureServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\TemperatureServiceLibrary\bin\Debug\TemperatureServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\TemperatureServiceLibrary\obj\Debug\TemperatureServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\TemperatureServiceLibrary\obj\Debug\TemperatureServiceLibrary.pdb

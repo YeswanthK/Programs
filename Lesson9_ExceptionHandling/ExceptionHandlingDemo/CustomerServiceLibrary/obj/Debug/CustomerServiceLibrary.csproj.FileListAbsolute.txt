@@ -1,0 +1,12 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 2_Exposing WCF Service\CustomerServiceDemo\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 2_Exposing WCF Service\CustomerServiceDemo\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 2_Exposing WCF Service\CustomerServiceDemo\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 2_Exposing WCF Service\CustomerServiceDemo\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 2_Exposing WCF Service\CustomerServiceDemo\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 2_Exposing WCF Service\CustomerServiceDemo\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson9_ExceptionHandling\ExceptionHandlingDemo\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson9_ExceptionHandling\ExceptionHandlingDemo\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson9_ExceptionHandling\ExceptionHandlingDemo\CustomerServiceLibrary\bin\Debug\CustomerServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson9_ExceptionHandling\ExceptionHandlingDemo\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson9_ExceptionHandling\ExceptionHandlingDemo\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson9_ExceptionHandling\ExceptionHandlingDemo\CustomerServiceLibrary\obj\Debug\CustomerServiceLibrary.pdb

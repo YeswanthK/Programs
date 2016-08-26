@@ -1,0 +1,9 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient2\bin\Debug\WCFClient2.exe.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient2\bin\Debug\WCFClient2.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient2\bin\Debug\WCFClient2.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient2\obj\Debug\WCFClient2.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient2\obj\Debug\WCFClient2.Form1.resources
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient2\obj\Debug\WCFClient2.Properties.Resources.resources
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient2\obj\Debug\WCFClient2.csproj.GenerateResource.Cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient2\obj\Debug\WCFClient2.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient2\obj\Debug\WCFClient2.pdb

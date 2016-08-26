@@ -1,0 +1,10 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\bin\Debug\WindowsClient2.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\bin\Debug\WindowsClient2.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\bin\Debug\CustomerServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\bin\Debug\CustomerServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\obj\Debug\WindowsClient2.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\obj\Debug\WindowsClient2.Form1.resources
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\obj\Debug\WindowsClient2.Properties.Resources.resources
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\obj\Debug\WindowsClient2.csproj.GenerateResource.Cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\obj\Debug\WindowsClient2.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_SelfHosting\SelfHosting\WindowsClient2\obj\Debug\WindowsClient2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\ConsoleHost\bin\Debug\ConsoleHost.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\ConsoleHost\bin\Debug\ConsoleHost.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\ConsoleHost\bin\Debug\CustomerServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\ConsoleHost\bin\Debug\CustomerServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\ConsoleHost\obj\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson4_ConfigFilesDemo\ConfigFilesDemo\ConsoleHost\obj\Debug\ConsoleHost.pdb

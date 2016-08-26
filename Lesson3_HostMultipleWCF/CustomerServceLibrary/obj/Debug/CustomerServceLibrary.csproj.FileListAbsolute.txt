@@ -1,0 +1,6 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\CustomerServceLibrary\bin\Debug\CustomerServceLibrary.dll.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\CustomerServceLibrary\bin\Debug\CustomerServceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\CustomerServceLibrary\bin\Debug\CustomerServceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\CustomerServceLibrary\obj\Debug\CustomerServceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\CustomerServceLibrary\obj\Debug\CustomerServceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson3_HostMultipleWCF\CustomerServceLibrary\obj\Debug\CustomerServceLibrary.pdb

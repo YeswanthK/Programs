@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Forecast>
+  <city>Hyderabad</city>
+  <Day1>
+    <Low>56.58</Low>
+    <High>77</High>
+    <Details>Sunny and warm</Details>
+  </Day1>
+  <Day2>
+    <Low>62</Low>
+    <High>71</High>
+    <Details>Sunny and warm</Details>
+  </Day2>
+  <Author>Alok Signs</Author>
+</Forecast>

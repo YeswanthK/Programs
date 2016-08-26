@@ -1,0 +1,6 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson12_SessionsAndInstancing\SessionsDemo\OrderServiceLibrary\bin\Debug\OrderServiceLibrary.dll.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson12_SessionsAndInstancing\SessionsDemo\OrderServiceLibrary\bin\Debug\OrderServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson12_SessionsAndInstancing\SessionsDemo\OrderServiceLibrary\bin\Debug\OrderServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson12_SessionsAndInstancing\SessionsDemo\OrderServiceLibrary\obj\Debug\OrderServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson12_SessionsAndInstancing\SessionsDemo\OrderServiceLibrary\obj\Debug\OrderServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson12_SessionsAndInstancing\SessionsDemo\OrderServiceLibrary\obj\Debug\OrderServiceLibrary.pdb

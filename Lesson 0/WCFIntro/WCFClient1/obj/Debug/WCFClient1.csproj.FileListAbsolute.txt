@@ -1,0 +1,6 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient1\bin\Debug\WCFClient1.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient1\bin\Debug\WCFClient1.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient1\obj\Debug\WCFClient1.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient1\obj\Debug\WCFClient1.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient1\obj\Debug\WCFClient1.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WCFClient1\bin\Debug\WCFClient1.exe.config

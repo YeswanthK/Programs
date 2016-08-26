@@ -1,0 +1,8 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WebHost\bin\WebHost.dll.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WebHost\bin\WebHost.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WebHost\bin\WebHost.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WebHost\bin\HelloWorldServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WebHost\bin\HelloWorldServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WebHost\obj\Debug\WebHost.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WebHost\obj\Debug\WebHost.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\WebHost\obj\Debug\WebHost.pdb

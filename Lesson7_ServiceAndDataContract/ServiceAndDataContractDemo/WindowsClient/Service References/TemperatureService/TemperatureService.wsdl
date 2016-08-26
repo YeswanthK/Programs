@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://www.ia.com/wcf" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.ia.com/wcf" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://www.ia.com/wcf/Imports">
+      <xsd:import schemaLocation="http://localhost:60098/TemperatureService.svc?xsd=xsd0" namespace="http://www.ia.com/wcf" />
+      <xsd:import schemaLocation="http://localhost:60098/TemperatureService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="WeatherReport_GetCurrentTemp_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCurrentTemp" />
+  </wsdl:message>
+  <wsdl:message name="WeatherReport_GetCurrentTemp_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCurrentTempResponse" />
+  </wsdl:message>
+  <wsdl:message name="WeatherReport_Getforecast_InputMessage">
+    <wsdl:part name="parameters" element="tns:Getforecast" />
+  </wsdl:message>
+  <wsdl:message name="WeatherReport_Getforecast_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetforecastResponse" />
+  </wsdl:message>
+  <wsdl:message name="WeatherReport_SaveForecast_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveForecast" />
+  </wsdl:message>
+  <wsdl:message name="WeatherReport_SaveForecast_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveForecastResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WeatherReport">
+    <wsdl:operation name="GetCurrentTemp">
+      <wsdl:input wsaw:Action="http://www.ia.com/wcf/WeatherReport/GetCurrentTemp" message="tns:WeatherReport_GetCurrentTemp_InputMessage" />
+      <wsdl:output wsaw:Action="http://www.ia.com/wcf/WeatherReport/GetCurrentTempResponse" message="tns:WeatherReport_GetCurrentTemp_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Getforecast">
+      <wsdl:input wsaw:Action="http://www.ia.com/wcf/WeatherReport/Getforecast" message="tns:WeatherReport_Getforecast_InputMessage" />
+      <wsdl:output wsaw:Action="http://www.ia.com/wcf/WeatherReport/GetforecastResponse" message="tns:WeatherReport_Getforecast_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveForecast">
+      <wsdl:input wsaw:Action="http://www.ia.com/wcf/WeatherReport/SaveForecast" message="tns:WeatherReport_SaveForecast_InputMessage" />
+      <wsdl:output wsaw:Action="http://www.ia.com/wcf/WeatherReport/SaveForecastResponse" message="tns:WeatherReport_SaveForecast_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Forecast>
+  <city>Redmond</city>
+  <Day1>
+    <Low>32.8</Low>
+    <High>54</High>
+    <Details>Rain turning to showers</Details>
+  </Day1>
+  <Day2>
+    <Low>38</Low>
+    <High>49</High>
+    <Details>Showers turning to rain</Details>
+  </Day2>
+  <Author>KrishnaSigns</Author>
+</Forecast>

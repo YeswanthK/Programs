@@ -1,0 +1,6 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\HelloWorldServiceLibrary\obj\Debug\HelloWorldServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\HelloWorldServiceLibrary\bin\Debug\HelloWorldServiceLibrary.dll.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\HelloWorldServiceLibrary\bin\Debug\HelloWorldServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\HelloWorldServiceLibrary\bin\Debug\HelloWorldServiceLibrary.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\HelloWorldServiceLibrary\obj\Debug\HelloWorldServiceLibrary.dll
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson 0\WCFIntro\HelloWorldServiceLibrary\obj\Debug\HelloWorldServiceLibrary.pdb

@@ -1,0 +1,9 @@
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\WindowsClient\obj\Debug\WindowsClient.csprojResolveAssemblyReference.cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\WindowsClient\obj\Debug\WindowsClient.Form1.resources
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\WindowsClient\obj\Debug\WindowsClient.Properties.Resources.resources
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\WindowsClient\obj\Debug\WindowsClient.csproj.GenerateResource.Cache
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\WindowsClient\bin\Debug\WindowsClient.exe.config
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\WindowsClient\bin\Debug\WindowsClient.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\WindowsClient\bin\Debug\WindowsClient.pdb
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\WindowsClient\obj\Debug\WindowsClient.exe
+C:\Users\Yeswanth\Desktop\SourceInfotech\WCF\Programs\Lesson7_ServiceAndDataContract\ServiceAndDataContractDemo\WindowsClient\obj\Debug\WindowsClient.pdb
